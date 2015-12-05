@@ -1,7 +1,7 @@
 name: scenepr
 favicon: null
-layout_spectrum: 0.9493170469067991
-typography_spectrum: 0.7986923044081777
+layout_spectrum: 0.85352
+typography_spectrum: 0.23759
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7415934342425317
+    - '#000000'
+    - '#c9c9c9'
+    - '#333333'
+    - '#626262'
+    - '#ca0501'
+  brandStrength: 0.8125
   lightness: 0.3407487557269633
   saturation: 0.622226879466325
-  rhythmicContrast: 0.9740704537834972
+  rhythmicContrast: 0.75
 purpose: []
