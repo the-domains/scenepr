@@ -4,8 +4,15 @@
         <description><![CDATA[scenepr]]></description>
         <link>https://thegrid.ai/scenepr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 06:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 13:39:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scenepr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>This is a test posting</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92b45ef-6c53-4c5a-9c62-29877a16708a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/scenepr/test-post/index.html</link>
+            <guid isPermaLink="false">aaed9260-ca51-45de-a469-bf0932d6d51e</guid>
+            <pubDate>Thu, 24 Dec 2015 13:39:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two more companies have entered the virtual reality race]]></title>
             <description><![CDATA[<article><h1>Two more companies have entered the virtual reality race</h1><p>As major headsets like the Rift and HTC Vive creep ever closer towards a consumer release, other brands' efforts at a full-scale VR headset are starting to pop up. Now two major brands, Asus and Gigabyte, are moving towards release as well, according to Taiwan-based outlet DigiTimes.</p><img src="http://static1.businessinsider.com/image/567b1b8fe6183e263a8b4804-1190-625/two-more-companies-have-entered-the-virtual-reality-race.jpg"></article>]]></description>
