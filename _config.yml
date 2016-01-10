@@ -1,6 +1,6 @@
 name: scenepr
 favicon: null
-layout_spectrum: 0.7842
+layout_spectrum: 0.00911
 typography_spectrum: 0.23759
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#626262'
     - '#ca0501'
   brandStrength: 0.3125
-  lightness: 0.3125
-  saturation: 0.8125
-  rhythmicContrast: 0.5
+  lightness: 0.5625
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
