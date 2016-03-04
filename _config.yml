@@ -2,6 +2,7 @@ name: scenepr
 favicon: null
 layout_spectrum: 0.00911
 typography_spectrum: 0.23759
+title: SCENEPR
 cta:
   domain: null
   bucket: null
